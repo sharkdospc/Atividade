@@ -18,6 +18,10 @@ Acesse em: `http://localhost:8080`
 vendor/bin/phpunit tests
 
 ---
+## Print dos testes passando:
+![alt text](image.png)
+
+---
 
 ## Endpoints
 
