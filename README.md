@@ -3,9 +3,10 @@
 API em **PHP + Slim Framework** para gerenciar receitas, despesas, categorias e resumo financeiro. Dados ficam em memória (arrays).
 
 ---
+## Como instalar
+git clone https://github.com/sharkdospc/Atividade.git
 
 ## Como rodar a API
-
 composer install
 php -S localhost:8080 -t public
 
