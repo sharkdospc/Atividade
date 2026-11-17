@@ -4,6 +4,7 @@ API em **PHP + Slim Framework** para gerenciar receitas, despesas, categorias e 
 
 ---
 ## Como instalar
+Para clonar esse projeto, você deve entrar no aplicativo Windows PowerShell e digitar:
 git clone https://github.com/sharkdospc/Atividade.git
 
 ## Como rodar a API
